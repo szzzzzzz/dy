@@ -1,0 +1,7 @@
+  
+name: "t"
+displayName: "t" //what displays in the mod selection menu
+author: "t"
+description: "t"
+version: "1.0"
+minGameVersion: "126"
