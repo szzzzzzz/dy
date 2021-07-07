@@ -1,0 +1,25 @@
+type: tTurret
+name: t
+description: An  turret.
+hasPower: true
+hasLiquids: true
+targetAir: false
+targetGround: true
+health: 400
+size: 1
+range: 125
+inaccuracy: 0
+shootType: arc
+shots: 3
+powerUse : 1.75
+reload: 20
+liquidCapacity: 30
+
+requirements: [
+  lead/50
+  copper/35
+  gold/30
+]
+
+category: turret
+research: arc
